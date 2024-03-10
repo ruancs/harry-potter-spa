@@ -1,0 +1,11 @@
+@mixin gradient-font {
+    background: -webkit-linear-gradient(297deg, #806512 0%, #d9ac1f 46%, #ad8819 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+@mixin bg-hogwarts {
+    background: rgb(100,30,30);
+    background: linear-gradient(90deg, rgba(100,30,30,1) 0%, rgba(90,27,27,1) 50%, rgba(60,18,18,1) 100%);
+}
+

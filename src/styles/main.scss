@@ -1,0 +1,14 @@
+@import './variables.scss';
+@import './mixins';
+
+body{
+    @include bg-hogwarts
+}
+
+
+h1{
+    font-family: var(--harry-font);
+    font-size: 70px;
+    @include gradient-font;
+    text-align:center;
+}

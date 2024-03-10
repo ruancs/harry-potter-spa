@@ -1,3 +1,0 @@
-utilizar axios - melhora performance das requisiçoes, setar
-configuraçoes
-

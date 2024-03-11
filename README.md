@@ -30,9 +30,10 @@ npm run dev
 ```
 
 
-## 📦 Implantação
+## 📦 Deploy
 
-- 
+- Projeto hospedado na vercel:
+https://harry-potter-spa.vercel.app/
 
 
 

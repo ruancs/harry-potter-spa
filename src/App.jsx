@@ -9,7 +9,7 @@ function App() {
     <>
       <header>
         <img src='./src/assets/hp.png' className='hp-logo'></img>
-        <h1>Harry Potter API</h1>
+        <h1>Harry Potter characters</h1>
       </header>
 
       <main className='content-main'>

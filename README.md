@@ -1,8 +1,39 @@
-# React + Vite
+# Harry Potter SPA
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+![printscreen](image.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📙 Sobre o projeto
+
+- Este projeto foi feito com intuito de consumir uma API utilizando React, no  caso a [API de personagens de Harry Potter](https://hp-api.onrender.com/api/characters) e exibir:
+Imagem, Nome, Data de Nascimento, Casa, Patrono, Ator e se está vivo.
+
+
+### 📋 Pré-requisitos
+
+- Uma máquina com um sistema operacional( Linux , Mac, Windows)
+- Node instalado
+- Npm Instalado
+
+### 🔧 Instalação
+
+Rode o comando:
+
+```
+npm install
+```
+
+logo após, rode o comando para executar o projeto localmente:
+
+```
+npm run dev
+```
+
+
+## 📦 Implantação
+
+- 
+
+
+
+

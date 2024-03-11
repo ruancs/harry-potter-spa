@@ -12,7 +12,7 @@ const Card = () => {
       {data.map(char => {
         return (
           <div className="card-char" key={char.id}>
-            <img className="img-char" src={char.image === "" ? "src/assets/nophoto.png" : char.image}></img>
+            <img className="img-char" src={char.image === "" ? "/src/assets/nophoto.png" : char.image}></img>
             <p>Nome: {char?.name}</p>
             <p>Data de Nascimento: {char?.dateOfBirth?char.dateOfBirth:"desconhecido"}</p>
             <p>Casa: {char?.house?char.house:"desconhecida"}</p>
@@ -22,7 +22,7 @@ const Card = () => {
           </div>
         )
       })}
-      
+
     </>
   )
 }

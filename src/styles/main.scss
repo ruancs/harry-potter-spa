@@ -3,7 +3,9 @@
 @import  './card.scss';
 
 body{
-    @include bg-hogwarts
+    @include bg-hogwarts;
+    margin:0;
+    padding:0;
 }
 
 header{
@@ -11,8 +13,14 @@ header{
     justify-content: center;
     align-items: center;
     gap:15px;
-}
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 6px 12px -2px, rgba(0, 0, 0, 0.3) 0px 3px 7px -3px;
+    max-height: 180px;
 
+    @media screen and (max-width:500px){
+        align-items: flex-start;
+        margin-top: 20px;
+    }
+}
 
 h1{
     font-family: var(--harry-font);

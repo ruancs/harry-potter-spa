@@ -1,7 +1,7 @@
 # Harry Potter SPA
 
 
-![printscreen](image.png)
+![printscreen](image-1.png)
 
 ## 📙 Sobre o projeto
 

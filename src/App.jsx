@@ -8,7 +8,7 @@ function App() {
   return (
     <>
       <header>
-        <img src='/src/assets/hp.png' className='hp-logo'></img>
+        <img src='./src/assets/hp.png' className='hp-logo'></img>
         <h1>Harry Potter API</h1>
       </header>
 
